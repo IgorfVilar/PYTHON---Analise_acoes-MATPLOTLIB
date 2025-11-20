@@ -1,4 +1,4 @@
-# Criação de gráficos para a análise do comportamento das ações PETR4 e ITUB4 com Python.
+# Análise do comportamento das ações PETR4 e ITUB4 com Python.
 
 FIGURA 1 — Gráfico de linha da evolução das ações.
 Analisa como o preço diário das ações PETR4 e ITUB4 varia ao longo do tempo.
